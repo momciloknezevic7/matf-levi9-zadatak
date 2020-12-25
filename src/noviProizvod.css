@@ -1,0 +1,35 @@
+body {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+}
+
+
+  #noviProizvod input {
+    border: 7px outset;
+    display: inline-block;
+    display: block;
+    margin: 15px 5px;
+    width: 30%;
+    box-sizing: border-box;
+    padding: 10px 10px;
+  }
+  
+  #noviProizvod button {
+    margin: 10px 5px;
+    font-size: 20px;
+    height: 40px;
+    border: solid;
+    color: black;
+    background-color: red;
+    width: 30%;
+    cursor: pointer;
+  }
+  
+  #noviProizvod {
+    position: absolute;
+    margin: auto;
+    top: 10px;
+    bottom: 0;
+    left: 10px;
+    right: 0;
+  }
